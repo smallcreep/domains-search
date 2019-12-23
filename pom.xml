@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (c) ADSTERRA.com - All rights reserved to AD MARKET LIMITED
+Unauthorized copying of this file, via any medium is strictly prohibited
+Proprietary and confidential
+Written 2019
+-->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
@@ -61,6 +67,7 @@
       <groupId>org.takes</groupId>
       <artifactId>takes</artifactId>
       <version>1.19</version>
+      <scope>compile</scope>
     </dependency>
   </dependencies>
   <build>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (c) ADSTERRA.com - All rights reserved to AD MARKET LIMITED
+Unauthorized copying of this file, via any medium is strictly prohibited
+Proprietary and confidential
+Written 2019
+-->
+<verifications xmlns="http://maven.apache.org/verifications/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/verifications/1.0.0 http://maven.apache.org/xsd/verifications-1.0.0.xsd">
+  <files>
+    <file>
+      <exists>true</exists>
+      <location>LICENSE.txt</location>
+      <contains>2019</contains>
+    </file>
+  </files>
+</verifications>
